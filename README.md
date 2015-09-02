@@ -1,7 +1,7 @@
 # the-links-they-carried
 ###I had way too many bookmarks for services that I thought looked useful. They have now been extrapolated into a Git repo. Feel free to add to this list with pull requests!
 
-**I have not read most of these links to completion. They are taking up room in my bookmarks, so I wanted to put them here! If you would like to discuss the links posted, feel free to add an "issue" to the repo! It's a great way to get some discussion about the links!**
+*I have not read most of these links to completion. They are taking up room in my bookmarks, so I wanted to put them here! If you would like to discuss the links posted, feel free to add an "issue" to the repo! It's a great way to get some discussion about the links!*
 
 ##Design
 - [Stock Up](http://www.sitebuilderreport.com/stock-up) - Search a ton of free stock images all at once.
@@ -19,8 +19,8 @@
 - [The Unreasonable Effectiveness Of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - An article about Neural Networks
 - [Getify.me](http://getify.me/) - The homepage of Kyle Simpson, the Javascript guru.
 - [To write great code first you must read great code](http://blog.hackership.org/2015/05/Read-Code.html) - An article with links to well-written source code.
-- [Building SVG Icons in React](http://jxnblk.com/react-icons/) - An awesome tutorial on programatically generated icons.
-
+- [Building SVG Icons in React](http://jxnblk.com/react-icons/) - An awesome tutorial on programmatically generated icons.
+- [LoadJs](https://github.com/muicss/loadjs?a=1) - A simple javascript dependency management system.
 
 ##Business
 - [List of Business Models](https://gist.github.com/ndarville/4295324) - Github of compiled business models.
